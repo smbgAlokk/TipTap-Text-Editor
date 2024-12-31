@@ -104,7 +104,7 @@ export default App;
 
 ### Editor Interface 🔧🌟🖊️
 
-![Editor Interface](https://via.placeholder.com/800x400?text=Screenshot+Coming+Soon)
+![image alt](https://github.com/smbgAlokk/TipTap-Text-Editor/blob/main/TipTap.png?raw=true)
 
 ---
 
