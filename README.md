@@ -154,8 +154,4 @@ This project showcases: 🎉🎨🔧
 
 ---
 
-**Explore the live demo:** [Link Coming Soon] 🚀🔧🌍
-
----
-
 Thank you for visiting this repository! Feedback and suggestions are highly appreciated. 🌟💎🎉
