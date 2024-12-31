@@ -1,0 +1,78 @@
+#Input-main {
+  background-color: #31473a;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  border: 1px solid #e0e0e0;
+  border-radius: 25px;
+  max-width: 800px;
+  margin: 20px auto;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+#Input-button {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+#Input-button button {
+  background-color: #ffffff;
+  color: #333;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 8px 12px;
+  font-size: 14px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.2s;
+}
+
+#Input-button button:hover {
+  background-color: #e6e6e6;
+  transform: translateY(-2px);
+}
+
+.EditorContent {
+  background-color: #ffffff;
+  border: 1px solid #2f2323;
+  border-radius: 10px;
+  padding: 15px;
+  min-height: 100px;
+  max-height: 300px;
+  overflow-y: auto;
+  font-size: 16px;
+  color: #333;
+  line-height: 5;
+}
+
+#save-button {
+  background-color: #28a745;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 6px;
+  width: 100%;
+  transition: background-color 0.3s, transform 0.2s;
+}
+#save-button:hover {
+  background-color: #218838;
+  transform: translateY(-2px);
+}
+
+.Output {
+  background-color: #ffffff;
+  border: 1px solid #2f2020;
+  border-radius: 10px;
+  padding: 15px;
+  min-height: 200px;
+  max-height: 400px;
+  max-width: 800px;
+  overflow-y: auto;
+  font-size: 16px;
+  color: #333;
+  line-height: 1.5;
+  margin: 20px auto;
+}
