@@ -140,7 +140,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 For any inquiries, reach out via: 🚀🎨🌍
 
 - **Email**: contact.alokkumarr@gmail.com
-- **GitHub**: [your-username]([https://github.com/your-username](https://github.com/smbgAlokk))
+- **GitHub**: [smbgAlokk]([https://github.com/your-username](https://github.com/smbgAlokk))
 
 ---
 
