@@ -28,7 +28,7 @@ const TipTap = ({ onEditorContentSave }) => {
           disabled={!editor.can().chain().focus().toggleBold().run()}
           className={editor.isActive("bold") ? "is-active" : ""}
         >
-          <strong>B</strong>
+          <strong>Bold</strong>
         </button>
         <button
           onClick={() => editor.chain().focus().toggleUnderline().run()}

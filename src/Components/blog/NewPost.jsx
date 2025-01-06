@@ -12,6 +12,7 @@ const NewPost = () => {
     <>
       <TipTap onEditorContentSave={handleEditorContentSave} />
       <hr />
+      <h2 id="output">Output</h2>
       <ShowPost Content={htmlContent} />
     </>
   );
