@@ -10,6 +10,7 @@ const NewPost = () => {
   };
   return (
     <>
+      <h1 id="title">TipTap Text Editor</h1>
       <TipTap onEditorContentSave={handleEditorContentSave} />
       <hr />
       <h2 id="output">Output</h2>
