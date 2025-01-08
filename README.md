@@ -1,5 +1,5 @@
 # TipTap Rich Text Editor 🔧🌟🖊️
-**Site**: [Click Here](https://tiptaptexteditor.netlify.app/)
+**Site**: [Click Here](https://tiptaptexteditor.netlify.app/"target="_blank)
 
 A feature-rich and customizable rich text editor built with **React** and **TipTap**. This project demonstrates clean coding practices, modern design, and a focus on usability and extensibility, making it ideal for integration into web applications. 🚀🎨🔐
 
